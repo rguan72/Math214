@@ -10,7 +10,9 @@ If not, install python 3.
 `$ pipenv shell`
 5. If you get a "TypeError: 'module' object is not callable" error, run:
 `$ pipenv run pip install pip==18.0`
+
 `$ pipenv install`
+
 `$ pipenv shell`
 6. Make kaggle account.
 7. Download kaggle.json from My Account -> Create API token and place in your ~/.kaggle folder.

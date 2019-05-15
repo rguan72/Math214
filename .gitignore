@@ -116,3 +116,7 @@ dmypy.json
 
 # Data
 *.zip
+input/*
+
+# vscode
+.vscode/*

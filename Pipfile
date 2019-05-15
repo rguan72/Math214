@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 kaggle = "*"
 tensorflow = "*"
+numpy = "*"
+pandas = "*"
 
 [dev-packages]
 
